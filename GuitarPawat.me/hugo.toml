@@ -43,7 +43,7 @@ pygmentsUseClasses  = true
 # Maximum number of items in the RSS feed.
 rssLimit = 10
 
-copyright = " All rights reserved" # This message is only used by the RSS template.
+copyright = "All rights reserved" # This message is only used by the RSS template.
 
 # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 enableEmoji = true
@@ -79,14 +79,14 @@ enableEmoji = true
   # Below Allows homeSubtitle to be shown with printer animation effect. Refer Line 911 in style.scss
   homeSubtitlePrinter = true
 
-  footerCopyright = ' All rights reserved'
+  footerCopyright = ' &#183; All rights reserved'
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = "https://github.com/guitarpawat/guitarpawat.github.io/commits/main"
 
   # Toggling this option needs to rebuild SCSS, requires Hugo extended version
-  justifyContent = true  # Set "text-align: justify" to `.content`.
+  justifyContent = false  # Set "text-align: justify" to `.content`.
 
   relatedPosts = false  # Add a related content section to all single posts page
 
