@@ -62,10 +62,9 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}"          
       - name: Upload artifact
-        working-directory: ./GuitarPawat.me
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./public
+          path: ./GuitarPawat.me/public
 
   # Deployment job
   deploy:
