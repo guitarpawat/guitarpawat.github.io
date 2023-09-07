@@ -50,6 +50,8 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Go to Website Directory
+        run: cd GuitarPawat.me
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -59,7 +61,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/GuitarPawat.me"          
+            --baseURL "${{ steps.pages.outputs.base_url }}"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
