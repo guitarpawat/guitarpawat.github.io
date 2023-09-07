@@ -1,0 +1,132 @@
+baseURL = 'https://guitarpawat.me/'
+theme = 'hermit-v2'
+
+#[languages]
+#  [languages.en]
+#    title = 'My blog'
+#    weight = 1
+#    [languages.en.params]
+#      linkedin = 'https://linkedin.com/whoever'
+#  [languages.fr]
+#    title = 'Mon blogue'
+#    weight = 2
+#    [languages.fr.params]
+#      linkedin = 'https://linkedin.com/fr/whoever'
+#  [languages.it]
+#    title = 'Il mio blog'
+#    weight = 3
+#    [languages.fr.params]
+#      linkedin = 'https://linkedin.com/fr/whoever'
+
+# languageCode - A language tag as defined by RFC 5646. This value is used to populate:
+#   The <language> element in the internal RSS template
+#   The lang attribute of the <html> element in the internal alias template
+languageCode = "en-us"
+
+# defaultContentLanguage - Content without language indicator will default to this language.
+defaultContentLanguage = "en"
+
+
+# title - Site title
+title = "Pawat Nakpiphatkul"
+
+# enableGitInfo - Enable .GitInfo object for each page (if the Hugo site is versioned by Git). This will then update the Lastmod parameter for each page using the last git commit date for that content file.
+enableGitInfo = true
+
+
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+
+# If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+#hasCJKLanguage = true
+
+# Maximum number of items in the RSS feed.
+rssLimit = 10
+
+copyright = "All rights reserved" # This message is only used by the RSS template.
+
+# Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+enableEmoji = true
+
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "yourdiscussshortname"
+
+[author]
+  name = "Pawat Nakpiphatkul"
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  # description = ""
+  # images = [""]
+  themeColor = "#494f5c"
+
+  homeSubtitle = "Backend Software Engineer (Java/Go)"
+
+  # Below Allows homeSubtitle to be shown with printer animation effect. Refer Line 911 in style.scss
+  homeSubtitlePrinter = true
+
+  footerCopyright = 'All rights reserved'
+  # bgImg = ""  # Homepage background-image URL
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = "https://github.com/guitarpawat/guitarpawat.github.io/commits/main"
+
+  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+
+  relatedPosts = false  # Add a related content section to all single posts page
+
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
+
+  # Add custom css
+  # customCSS = ["css/foo.css", "css/bar.css"]
+
+  scrollToTop = true # To enable Scroll to Top button Sitewide
+
+  # Enable global_mathjax to true, if you want MathJax support sitewide (if you have technical page)
+  # You can enable Per-Page MathJax support by adding `mathjax : true` in Page frontmatter
+  global_mathjax = false
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  # [[params.social]]
+  #  name = "twitter"
+  #  url = "https://twitter.com/"
+
+  # [[params.social]]
+  #  name = "instagram"
+  #  url = "https://instagram.com/"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/guitarpawat"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/pawat-nakpiphatkul"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about-hugo/"
+    weight = 20
