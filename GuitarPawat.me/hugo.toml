@@ -119,6 +119,10 @@ enableEmoji = true
     name = "linkedin"
     url = "https://www.linkedin.com/in/pawat-nakpiphatkul"
 
+  [[params.social]]
+    name = "others"
+    url = "https://programmingdd.com"
+
 [menu]
 
   [[menu.main]]
