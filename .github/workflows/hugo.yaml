@@ -60,7 +60,8 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}"          
+            --baseURL "${{ steps.pages.outputs.base_url }}" \
+            --clock 2021-11-06T22:30:00.00+07:00
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
