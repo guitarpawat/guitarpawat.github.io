@@ -122,11 +122,11 @@ enableEmoji = true
 [menu]
 
   [[menu.main]]
-    name = "Posts"
+    name = "My Posts"
     url = "posts/"
     weight = 10
 
   [[menu.main]]
-    name = "About"
-    url = "about-hugo/"
+    name = "About Me"
+    url = "about/"
     weight = 20
