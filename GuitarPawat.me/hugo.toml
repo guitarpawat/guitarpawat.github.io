@@ -1,5 +1,6 @@
 baseURL = '/'
 theme = 'hermit-v2'
+timeZone = "Asia/Bangkok"
 
 #[languages]
 #  [languages.en]
@@ -25,7 +26,6 @@ languageCode = "en-us"
 
 # defaultContentLanguage - Content without language indicator will default to this language.
 defaultContentLanguage = "en"
-
 
 # title - Site title
 title = "Pawat Nakpiphatkul"
@@ -64,10 +64,10 @@ enableEmoji = true
   # Categories are disabled by default.
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  dateform        = "2 Jan 2006"
+  dateformShort   = "2 Jan"
+  dateformNum     = "02 Jan 2006"
+  dateformNumTime = "02 Jan 2006 15:04 -07:00"
 
   # Metadata mostly used in document's head
   # description = ""
