@@ -93,7 +93,7 @@ enableEmoji = true
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
 
   # Add custom css
-  # customCSS = ["css/foo.css", "css/bar.css"]
+  customCSS = ["custom.css"]
 
   scrollToTop = true # To enable Scroll to Top button Sitewide
 

@@ -1,0 +1,12 @@
+#home-subtitle {
+    font-size: 1em;
+}
+
+@media (max-width: 520px) {
+    #home-title {
+        font-size: 1.2em;
+    }
+    #home-subtitle {
+        font-size: 0.6em;
+    }
+}
