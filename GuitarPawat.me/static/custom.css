@@ -2,11 +2,20 @@
     font-size: 1em;
 }
 
+#page .content p {
+    font-size: 1.25em;
+    font-family: Candara,lucida grande,lucida sans unicode,lucida sans,Tahoma,sans-serif;
+}
+
 @media (max-width: 520px) {
     #home-title {
         font-size: 1.2em;
     }
     #home-subtitle {
         font-size: 0.6em;
+    }
+
+    #page .content p {
+        font-size: 1.15em;
     }
 }
