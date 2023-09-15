@@ -32,3 +32,6 @@ And also...
 The first blog that you wrote will not be that good.  
 
 **The most important thing is I am happy while I am writing this and allow myself to improve my skills at my own pace.**
+
+
+Ps. Constructive feedback is good but I mostly find non-constructive feedback. I used to got bullied because I am bad at singing and hit by teacher because I really bad at my art assignment and I still remember it to this day :(
