@@ -26,8 +26,9 @@ I don't let anyone judge my hobbies again.
 
 "***If it is not a job, I don't let anyone judge me***"
 
-The first song that you sing will be out of tune.
-The first photo that you take will not be beautiful.
-And also... The first blog that you wrote will not be that good.
+The first song that you sing will be out of tune.  
+The first photo that you take will not be beautiful.  
+And also...  
+The first blog that you wrote will not be that good.  
 
 **The most important thing is I am happy while I am writing this and allow myself to improve my skills at my own pace.**
