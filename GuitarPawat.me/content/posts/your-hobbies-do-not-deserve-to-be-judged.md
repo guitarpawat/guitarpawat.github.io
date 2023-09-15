@@ -21,7 +21,7 @@ Yes, the negative one.
 I used to think that if I listened to criticism, I could improve my skills.
 But in reality, it discourages me and makes me think that I am bad at that thing and never do that again.
 
-After 23 years of my life, I knew something just like aha moment. What matters most when doing hobbies is my happiness while trying to do and improve it along the way at my own pace.
+After 24 years of my life, I knew something just like aha moment. What matters most when doing hobbies is my happiness while trying to do and improve it along the way at my own pace.
 I don't let anyone judge my hobbies again.
 
 "***If it is not a job, I don't let anyone judge me***"
