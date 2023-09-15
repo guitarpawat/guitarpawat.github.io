@@ -16,7 +16,7 @@ When I started something new, I used to ask my friends for feedback.
 Some of my friends said, “*It looks good to me.*” Some of them tried to be neutral. And others said, “*This is bad, this is not your way, and you should **stop doing this**.*”
 
 After I heard all the opinions from my friends, do you know which stuck in my mind the most?
-Yes, the negative one.
+Yes, the negative (and non-constructive) one.
 
 I used to think that if I listened to criticism, I could improve my skills.
 But in reality, it discourages me and makes me think that I am bad at that thing and never do that again.
@@ -32,6 +32,3 @@ And also...
 The first blog that you wrote will not be that good.  
 
 **The most important thing is I am happy while I am writing this and allow myself to improve my skills at my own pace.**
-
-
-Ps. Constructive feedback is good but I mostly find non-constructive feedback in my life. I used to got bullied because I am bad at singing and hit by teacher because I really bad at my art assignment. I still remember it to this day :(
