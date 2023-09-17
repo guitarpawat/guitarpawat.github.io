@@ -120,7 +120,7 @@ enableEmoji = true
     url = "https://www.linkedin.com/in/pawat-nakpiphatkul"
 
   [[params.social]]
-    name = "others"
+    name = "technical blog"
     url = "https://programmingdd.com"
 
 [menu]
