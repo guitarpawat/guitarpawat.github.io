@@ -7,6 +7,7 @@ images:
 tags: 
   - self-improvement
   - opinion
+  - personal
 ---
 
 When I started something new, I used to ask my friends for feedback.

@@ -119,23 +119,24 @@ enableEmoji = true
     name = "linkedin"
     url = "https://www.linkedin.com/in/pawat-nakpiphatkul"
 
-  [[params.social]]
-    name = "technical blog"
-    url = "https://programmingdd.com"
-
 [menu]
 
   [[menu.main]]
-    name = "About"
+    name = "About Me"
     url = "about/"
     weight = 1
 
   [[menu.main]]
-    name = "Posts"
-    url = "posts/"
+    name = "Personal Blog"
+    url = "tags/personal"
     weight = 2
 
   [[menu.main]]
-    name = "Tags"
-    url = "tags/"
+    name = "Technical Blog"
+    url = "tags/technical"
     weight = 3
+
+  [[menu.main]]
+    name = "All Tags"
+    url = "tags"
+    weight = 4

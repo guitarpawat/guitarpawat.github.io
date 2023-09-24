@@ -6,5 +6,6 @@ toc: false
 images:
 tags: 
   - random
+  - personal
 ---
 This is my first post. I just change from traditional PHP web hosting to Github Page and I want to test *something*.
