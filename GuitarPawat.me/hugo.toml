@@ -119,6 +119,11 @@ enableEmoji = true
     name = "linkedin"
     url = "https://www.linkedin.com/in/pawat-nakpiphatkul"
 
+  [[params.social]]
+    name = "webring"
+    url = "https://webring.wonderful.software#guitarpawat.me"
+    src = "https://webring.wonderful.software/webring.black.svg"
+
 [menu]
 
   [[menu.main]]
