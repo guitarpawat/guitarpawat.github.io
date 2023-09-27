@@ -1,6 +1,6 @@
 ---
-title: "Why your Quarkus reactive codes are not executing?"
-date: 2023-09-18T00:13:00+07:00
+title: "How to prevent thread blocks in Quarkus"
+date: 2023-09-26T21:34:00+07:00
 draft: false
 toc: true
 images:

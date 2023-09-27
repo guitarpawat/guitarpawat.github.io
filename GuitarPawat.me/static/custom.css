@@ -7,6 +7,18 @@
     font-family: Candara,lucida grande,lucida sans unicode,lucida sans,Tahoma,sans-serif;
 }
 
+#page .content p code {
+    font-size: 0.85em;
+}
+
+.chroma, .line, code {
+    background-color: rgb(40, 47, 54);
+}
+
+.chroma span.c1, .chroma span.cm {
+    color: rgb(132, 134, 125);;
+}
+
 @media (max-width: 520px) {
     #home-title {
         font-size: 1.2em;

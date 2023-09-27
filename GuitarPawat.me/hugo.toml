@@ -31,7 +31,7 @@ defaultContentLanguage = "en"
 title = "Pawat Nakpiphatkul"
 
 # enableGitInfo - Enable .GitInfo object for each page (if the Hugo site is versioned by Git). This will then update the Lastmod parameter for each page using the last git commit date for that content file.
-enableGitInfo = true
+enableGitInfo = false
 
 
 pygmentsCodefences  = true
@@ -140,8 +140,3 @@ enableEmoji = true
     name = "Technical Blog"
     url = "tags/technical"
     weight = 3
-
-  [[menu.main]]
-    name = "All Tags"
-    url = "tags"
-    weight = 4
