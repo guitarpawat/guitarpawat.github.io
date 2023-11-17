@@ -19,6 +19,18 @@ pre.chroma {
     color: rgb(161, 163, 156);
 }
 
+#home-social a[title=Webring] {
+    width: 30px; 
+    height: 30px;
+    content:url(https://webring.wonderful.software/webring.white.svg)
+}
+
+a[title=Webring] {
+    width: 22px; 
+    height: 22px;
+    content:url(https://webring.wonderful.software/webring.white.svg)
+}
+
 @media (max-width: 520px) {
     #home-title {
         font-size: 1.2em;
