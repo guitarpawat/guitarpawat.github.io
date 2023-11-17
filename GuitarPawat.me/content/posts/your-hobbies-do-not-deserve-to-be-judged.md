@@ -3,6 +3,7 @@ title: "Your Hobbies Don't Deserve to Be Judged"
 date: 2023-09-15T21:59:29+07:00
 draft: false
 toc: false
+scrolltotop : true
 images:
 tags: 
   - self-improvement

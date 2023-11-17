@@ -11,12 +11,12 @@
     font-size: 0.85em;
 }
 
-.chroma, .line, code {
-    background-color: rgb(40, 47, 54);
+pre.chroma {
+    background-color: #272822;
 }
 
 .chroma span.c1, .chroma span.cm {
-    color: rgb(132, 134, 125);;
+    color: rgb(161, 163, 156);
 }
 
 @media (max-width: 520px) {
@@ -24,7 +24,7 @@
         font-size: 1.2em;
     }
     #home-subtitle {
-        font-size: 0.6em;
+        font-size: 0.65em;
     }
 
     #page .content p {

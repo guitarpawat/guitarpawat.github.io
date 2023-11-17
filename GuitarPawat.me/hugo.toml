@@ -92,8 +92,8 @@ enableEmoji = true
 
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
 
-  # Add custom css
-  customCSS = ["custom.css"]
+  readTime = true
+  readTimeSeparator = "| Read time:"
 
   scrollToTop = true # To enable Scroll to Top button Sitewide
 
@@ -103,23 +103,23 @@ enableEmoji = true
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
-  # [[params.social]]
+  # [[params.socialLinks]]
   #  name = "twitter"
   #  url = "https://twitter.com/"
 
-  # [[params.social]]
+  # [[params.socialLinks]]
   #  name = "instagram"
   #  url = "https://instagram.com/"
 
-  [[params.social]]
+  [[params.socialLinks]]
     name = "github"
     url = "https://github.com/guitarpawat"
 
-  [[params.social]]
+  [[params.socialLinks]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/pawat-nakpiphatkul"
 
-  [[params.social]]
+  [[params.socialLinks]]
     name = "webring"
     url = "https://webring.wonderful.software#guitarpawat.me"
     src = "https://webring.wonderful.software/webring.black.svg"
