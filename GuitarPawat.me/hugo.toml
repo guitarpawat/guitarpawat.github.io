@@ -51,8 +51,15 @@ enableEmoji = true
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
 
-[author]
+# [frontmatter]
+#   date = ["date", "publishDate", "lastmod"]
+#   lastmod = ["lastmod", ":git", "date", "publishDate"]
+#   publishDate = ["publishDate", "date"]
+#   expiryDate = ["expiryDate"]
+
+[params.author]
   name = "Pawat Nakpiphatkul"
+  about = "about"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -62,6 +69,17 @@ enableEmoji = true
 [taxonomies]
   tag = "tags"
   # Categories are disabled by default.
+
+
+# Enable to get proper Mathjax support
+#[markup]
+#  [markup.goldmark]
+#    [markup.goldmark.extensions]
+#      [markup.goldmark.extensions.passthrough]
+#        enable = true
+#        [markup.goldmark.extensions.passthrough.delimiters]
+#          block = [['\[', '\]'], ['$$', '$$']]
+#          inline = [['\(', '\)']]
 
 [params]
   dateform        = "2 Jan 2006"
@@ -79,7 +97,7 @@ enableEmoji = true
   # Below Allows homeSubtitle to be shown with printer animation effect. Refer Line 911 in style.scss
   homeSubtitlePrinter = true
 
-  footerCopyright = '  All rights reserved'
+  footerCopyright = 'All rights reserved'
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.

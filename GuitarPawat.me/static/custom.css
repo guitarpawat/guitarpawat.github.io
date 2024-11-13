@@ -3,12 +3,20 @@
 }
 
 #page .content p {
-    font-size: 1.25em;
-    font-family: Candara,lucida grande,lucida sans unicode,lucida sans,Tahoma,sans-serif;
+    font-size: 1.15em;
+    line-height: 1.85em;
+    /* font-family: Candara,lucida grande,lucida sans unicode,lucida sans,Tahoma,sans-serif; */
 }
 
 #page .content p code {
-    font-size: 0.85em;
+    font-size: 0.9em;
+    background-color: #272822;
+    color: rgb(238, 238, 238);
+}
+
+#page .content ul li {
+    font-size: 1.1em;
+    margin-bottom: 0.2em;
 }
 
 pre.chroma {
