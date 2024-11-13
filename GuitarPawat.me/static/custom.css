@@ -50,4 +50,11 @@ a[title=Webring] {
     #page .content p {
         font-size: 1.15em;
     }
+
+    #page .content p {
+        line-height: 1.75em;
+    }
+    #page .content ul li {
+        margin-bottom: 0.1em;
+    }
 }
